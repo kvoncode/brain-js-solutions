@@ -1,0 +1,27 @@
+{
+  "name": "brainjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrimba-tutorial/1.introduction/index.html",
+  "dependencies": {
+    "brain.js": "^1.6.1",
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server ./scrimba-tutorial/1.introduction"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winepkd/brain.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winepkd/brain.js/issues"
+  },
+  "homepage": "https://github.com/winepkd/brain.js#readme"
+}
